@@ -12,7 +12,7 @@
 
 ### Development environment
 
-Please make sure you have the following installed:
+Please make sure you have the following installed: asd asd a
 - MySQL 5.6.x
 - JDK 1.7
 - Maven
